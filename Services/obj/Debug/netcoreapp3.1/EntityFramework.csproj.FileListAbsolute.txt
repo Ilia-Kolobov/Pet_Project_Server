@@ -1,0 +1,12 @@
+C:\Users\Илья\Documents\entity-framework\Services\bin\Debug\netcoreapp3.1\EntityFramework.deps.json
+C:\Users\Илья\Documents\entity-framework\Services\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.csprojAssemblyReference.cache
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfo.cs
+C:\Users\Илья\Documents\entity-framework\Services\bin\Debug\netcoreapp3.1\EntityFramework.runtimeconfig.json
+C:\Users\Илья\Documents\entity-framework\Services\bin\Debug\netcoreapp3.1\EntityFramework.runtimeconfig.dev.json
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.genruntimeconfig.cache
+C:\Users\Илья\Documents\entity-framework\Services\bin\Debug\netcoreapp3.1\EntityFramework.pdb
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.pdb
+C:\Users\Илья\Documents\entity-framework\Services\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CoreCompileInputs.cache

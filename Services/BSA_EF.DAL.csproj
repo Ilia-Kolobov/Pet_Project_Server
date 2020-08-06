@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200715170330_Initial.cs" />
+    <Compile Remove="Migrations\20200715170330_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200715183629_Test.cs" />
+    <Compile Remove="Migrations\20200715183629_Test.Designer.cs" />
+    <Compile Remove="Migrations\20200716120455_Initial.cs" />
+    <Compile Remove="Migrations\20200716120455_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200716201357_AddRelationshipsForCascadeDelete.cs" />
+    <Compile Remove="Migrations\20200716201357_AddRelationshipsForCascadeDelete.Designer.cs" />
+    <Compile Remove="Migrations\20200716205347_Test.cs" />
+    <Compile Remove="Migrations\20200716205347_Test.Designer.cs" />
+    <Compile Remove="Migrations\20200720101506_ValidateIdInModels.cs" />
+    <Compile Remove="Migrations\20200720101506_ValidateIdInModels.Designer.cs" />
+    <Compile Remove="Migrations\20200722205255_AddFKs.cs" />
+    <Compile Remove="Migrations\20200722205255_AddFKs.Designer.cs" />
+    <Compile Remove="Migrations\20200722205851_AddFKs.cs" />
+    <Compile Remove="Migrations\20200722205851_AddFKs.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>
